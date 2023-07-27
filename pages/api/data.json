@@ -1,0 +1,20 @@
+
+{
+    "paragraphGroups": [
+      {
+        "id": 1,
+        "title": [
+          "HAS BEEN WORKING SINCE 2000"
+        ],
+       "littleTitle": "The Address where Quality and Aesthetics Converge for Your Hair and Smile!",
+        "paragraphs": [
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        ],
+        "images": [
+          { "src": "/dentalDetail.jpg", "alt": "Image 1" }
+        ]
+      }
+    ]
+  }
+  
